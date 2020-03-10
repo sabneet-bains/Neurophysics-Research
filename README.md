@@ -1,2 +1,1 @@
-# Neurophysics-Research
- PET & MRI Analysis
+# Neurophysics Research
