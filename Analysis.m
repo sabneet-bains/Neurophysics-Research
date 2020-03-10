@@ -1,6 +1,3 @@
-% PROGRAM: IN PHASE TEST SCRIPT
-% PROGRAMMER: SABNEET BAINS
-
 %--------------
 clear all     %| Memory cleaning block
 clear classes %| flushes out everything
@@ -419,5 +416,3 @@ clear classes %| flushes out everything
 clear clc     %| including java, classes
 clear java    %| and command window...
 %--------------    
-
-
