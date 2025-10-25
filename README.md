@@ -58,6 +58,7 @@ Neurophysics-Research/
 │   └── Alzheimers_Analysis.m
 ├── Neural Networks/
 │   └── block_inhib.py
+├── brain.png
 ├── LICENSE
 └── README.md
 ```
