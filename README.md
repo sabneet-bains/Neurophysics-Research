@@ -54,10 +54,10 @@ Key goals:
 ## 📂 Directory Structure
 ```
 Neurophysics-Research/
-├── Alzheimers_Analysis.m         # MATLAB GUI + imaging automation
-├── block_inhib.py                # Python NEURON simulation framework
-├── DATA/                         # (optional) Simulation outputs & logs
-├── figures/                      # Thesis-related visualizations
+├── Alzheimers/
+│   └── Alzheimers_Analysis.m
+├── Neural Networks/
+│   └── block_inhib.py
 ├── LICENSE
 └── README.md
 ```
